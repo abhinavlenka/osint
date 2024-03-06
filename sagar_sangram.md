@@ -5,6 +5,10 @@
 ```
 Bascially a googling question without much efforts ..just making sure you get the spelling correct..for which I referred to the Wikipedia.
 ```
+wikipedia link I referred to :
+```
+https://en.wikipedia.org/wiki/Samudra_Manthana
+```
 ```
 me
 hello
