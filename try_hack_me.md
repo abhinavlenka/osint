@@ -16,8 +16,9 @@ Googling up the term
 ```
 TryHackMe Top 3% CyberCell VIIT
 ```
-```
 lead to the linkedn account of 
+```
+
 Ankush Kaudi, President @CyberCell VIIT 🛡️
 (https://www.linkedin.com/in/ankushkaudi/?originalSubdomain=in)
 
