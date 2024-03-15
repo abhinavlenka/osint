@@ -1,0 +1,61 @@
+From 937a18319d9c42e116f5e82cdfc26c516c8738aa Mon Sep 17 00:00:00 2001
+From: hmmm <hmmm@example.com>
+Date: Wed, 6 Mar 2024 22:03:21 +0530
+Subject: [PATCH] Create ifconfig_inet.md
+
+ Author:    hmmm <hmmm@example.com>
+---
+ ifconfig_inet.md | 41 +++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 41 insertions(+)
+ create mode 100644 ifconfig_inet.md
+
+diff --git a/ifconfig_inet.md b/ifconfig_inet.md
+new file mode 100644
+index 0000000..94d1065
+--- /dev/null
++++ b/ifconfig_inet.md
+@@ -0,0 +1,41 @@
++# ifconfig_inet
++
++> We were provided with the Description  
++
++```
++In the labyrinth of binary shadows, Elliot finds himself standing at the crossroads of justice and chaos. Mr. Robot, the enigmatic leader of the clandestine hacktivist group, has just unleashed a digital storm upon Evil Corp's fortress. The chaos is palpable, but this is just the beginning.
++
++As the digital tempest rages, Elliot receives a cryptic message from Mr. Robot. "To bring down Evil Corp, we must cast the shadows of guilt upon Terry Colby," the message echoes in the encrypted channels. However, in the haze of hacktivism, Elliot loses the crucial IP address and the elusive name of the DAT file, leaving him in a digital conundrum.
++
++To navigate this cybernetic maze, Elliot must embark on a quest through the binary underbelly of Evil Corp's servers. The servers, guarded by firewalls and encrypted gatekeepers, conceal the secrets needed to ensure Terry Colby's fall.
++
++Guide Elliot to the his destiny.
++```
++
++and were required to find out about the 
++```
++name of DAT file with extension and IP address of Terry Colby
++
++```
++
++
++
++The story is of Mr.Robot series 
++eps1.0_hellofriend.mov
++
++first looking up for the .dat file, we end up in wikipedia (https://en.wikipedia.org/wiki/List_of_Mr._Robot_episodes)
++
++```
++He identifies a file labeled **fsociety00.dat** and....
++```
++and for the ip address, we had to look through the fandom page (https://mrrobot.fandom.com/wiki/Eps1.0_hellofriend.mov)
++
++```
++...the IP address given is an invalid IPv4 address: 218.108.149.373....
++```
++
++
++Thus, we found the flag by combining the two parts.
++
++
++# Flag: `VishwaCTF{fsociety00.dat_218.108.149.373}`
+-- 
+2.34.1
+
